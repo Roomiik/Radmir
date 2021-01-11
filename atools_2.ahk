@@ -1,4 +1,4 @@
-buildscr = 10 ;версия для сравнения, если меньше чем в verlen.ini - обновляем
+buildscr = 11 ;версия для сравнения, если меньше чем в verlen.ini - обновляем
 downlurl := "https://raw.githubusercontent.com/Cherdak1/Radmir/main/updt.exe"
 downllen := "https://raw.githubusercontent.com/Cherdak1/Radmir/main/verlen.ini"
 
